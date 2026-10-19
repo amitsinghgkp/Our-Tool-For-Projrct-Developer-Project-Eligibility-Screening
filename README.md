@@ -1,2 +1,2 @@
-# Our-Tool-For-Projrct-Developer-Project-Eligibility-Screening
-ProjectEligibility Screening
+# Tool-For-Projrct-Developer-Project-Eligibility-Screening
+Project Eligibility Screening
